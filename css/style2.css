@@ -1,0 +1,65 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('../img/organic-sustainable-coffee-brands-scaled.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  #fig1{
+    color: #fff;
+  }
+
+  #fig2{
+    color: #fff;
+  }
+
+  #fig3{
+    color: #fff;
+  }
+
+  #fig4{
+    color: #fff;
+  }
+
+  #fig5{
+    color: #fff;
+  }
+
+  /* Det går inte att klicka på produkterna eller göra något annat.
+     Detta är bara visuellt för när man håller musen över produkten */
+
+  #kaffemaskin1:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+
+  #kaffemaskin2:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+
+  #kaffemaskin3:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+
+  #kaffepartyföretag:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+
+  #kaffepartyprivatpersoner:hover{
+    opacity: 0.5;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+
+  footer{
+    background-color: rgb(20, 20, 20)
+  }
